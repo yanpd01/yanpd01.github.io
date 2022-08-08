@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yichen Wu | LCND</title>
+    <link>https://example.com/author/yichen-wu/</link>
+      <atom:link href="https://example.com/author/yichen-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yichen Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/yichen-wu/avatar_hua45ff9ff991db501966155f6a27d324c_64224_270x270_fill_lanczos_center_3.png</url>
+      <title>Yichen Wu</title>
+      <link>https://example.com/author/yichen-wu/</link>
+    </image>
+    
+  </channel>
+</rss>
